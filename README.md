@@ -1,6 +1,6 @@
 # genomics-annotation-service
 
-An advanced web framework, designed on the principles of [Flask](http://flask.pocoo.org/), constructed specifically for our capstone project. It comes with advanced user authentication mechanisms using [Globus Auth](https://docs.globus.org/api/auth), modular templates for flexibility and custom styling options powered by [Bootstrap](http://getbootstrap.com/). 
+An advanced web framework, designed on the principles of [Flask](http://flask.pocoo.org/).It comes with advanced user authentication mechanisms using [Globus Auth](https://docs.globus.org/api/auth), modular templates for flexibility and custom styling options powered by [Bootstrap](http://getbootstrap.com/). 
 
 ## Directory Structure
 
